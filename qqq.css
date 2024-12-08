@@ -1,0 +1,263 @@
+a{
+color:#FFDAB9;
+text-decoration:none;
+}
+.karti{
+position:relative;
+left:250px;
+margin-left:auto;
+margin-right:auto;
+}
+
+html {
+background-image: url(fonn.png);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+ #navbar {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        width: 160px;
+      }
+      #navbar li {
+        border-bottom: 1px solid #FFEFD5;
+      }
+      #navbar a {
+        background-color: #FFDAB9;
+        color: #000000;
+        padding: 10px;
+        text-decoration: none;
+        font-weight: bold;
+        border-left: 0px solid #33ADFF;
+        display: block;}
+#boy{
+color:white;
+text-align:center;
+width:500px;
+position:relative;
+left:250px;
+top:-125px;
+align:center;
+}
+.legend{
+
+position:relative;
+left:795px;
+bottom:450px;
+margin-left:auto;
+margin-right:auto;
+}
+.rndm{
+
+position:relative;
+left:-205px;
+bottom:425px;
+margin-left:auto;
+margin-right:auto;
+}
+.MM{
+
+position:relative;
+left:-360px;
+bottom:250px;
+margin-left:auto;
+margin-right:auto;
+}
+.negr{
+position:relative;
+left:275px;
+bottom:25px;
+margin-left:auto;
+margin-right:auto;
+}
+#bbb{
+color:white;
+text-align:center;
+width:500px;
+position:relative;
+left:250px;
+top:-125px;
+align:center;
+}
+.FFF{
+position:relative;
+left:-815px;
+bottom:350px;
+margin-left:auto;
+margin-right:auto;
+}
+#biskut{
+color:white;
+text-align:center;
+width:150px;
+position:relative;
+left:25px;
+top:-365px;
+align:center;
+}
+.fed{
+color:white;
+text-align:center;
+width:150px;
+position:relative;
+left:260px;
+top:-50px;
+align:center;
+}
+.Feduk{
+color:white;
+text-align:center;
+width:150px;
+position:relative;
+left:250px;
+top:-50px;
+align:center;
+}
+#norm{
+color:white;
+text-align:center;
+width:500px;
+position:relative;
+left:250px;
+top:-125px;
+align:center;
+}
+#alb{
+background-image: linear-gradient(to 
+
+right,#b0b0b1, #a560b5);
+text-align:center;
+width:400px;
+position:relative;
+left:275px;
+top:-65px;
+align:center;
+}
+.Freerio{
+position:relative;
+left:20px;
+margin-left:auto;
+margin-right:auto;
+left:275px;
+top:-50px;
+transition:-2s;
+}
+.Freerio:hover{
+filter:blur(2.5px);
+transition:2s;
+}
+.OPG{
+position:relative;
+left:20px;
+margin-left:auto;
+margin-right:auto;
+left:275px;
+top:-50px;
+transition:-2s;
+}
+.OPG:hover{
+filter:blur(2.5px);
+transition:2s;
+}
+.sexy{
+position:relative;
+left:20px;
+margin-left:auto;
+margin-right:auto;
+left:275px;
+top:-50px;
+transition:-2s;
+}
+.sexy:hover{
+filter:blur(2.5px);
+transition:2s;
+}
+#vses{
+position:relative;
+right:25px;
+}
+#textik{
+filter:blur(10px);
+text-align:center;
+width:150px;
+position:relative;
+left:280px;
+top:-180px;
+align:center;
+}
+#textik:hover{
+color:white;
+filter:blur(0px);
+transition:2s;
+}
+#textik2{
+filter:blur(10px);
+text-align:center;
+width:150px;
+position:relative;
+left:425px;
+top:-335px;
+align:center;
+}
+#textik2:hover{
+color:white;
+filter:blur(0px);
+transition:2s;
+}
+#textik3{
+filter:blur(10px);
+text-align:center;
+width:150px;
+position:relative;
+left:590px;
+top:-450px;
+align:center;
+text-decorarion:none;
+}
+#textik3:hover{
+color:white;
+filter:blur(0px);
+transition:2s;
+}
+.hide{
+display: none;
+}
+.block span{
+ cursor: pointer;
+}
+.new{
+background-image: linear-gradient(to 
+
+right,#b0b0b1, #a560b5);
+}
+
+.block{
+text-align:center;
+width:400px;
+position:relative;
+left:275px;
+top:-400px;
+align:center;
+}
+
+p {
+	margin:0 0 10px 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+.main {
+	display:flex;
+}
+
+.menu {
+	margin: 0 30px 0 0;
+}
