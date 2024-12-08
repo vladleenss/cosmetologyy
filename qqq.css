@@ -1,41 +1,38 @@
-p {
-	margin:0 0 10px 0;
-}
-
-h1 {
-	text-align: center;
-}
-
-.main {
-	display:flex;
-}
-
-.menu {
-	margin: 0 30px 0 0;
-}
-
 a{
-	color:#FFDAB9;
-	text-decoration:none;
+color:#FFDAB9;
+text-decoration:none;
+}
+.karti{
+position:relative;
+left:250px;
+margin-left:auto;
+margin-right:auto;
 }
 
-#navbar {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-	width: 160px;
+html {
+background-image: url(fonn.png);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
-
-#navbar li {
-	border-bottom: 1px solid #FFEFD5;
-}
-
-#navbar a {
-	background-color: #FFDAB9;
-    color: #000000;
-    padding: 10px;
-    text-decoration: none;
-    font-weight: bold;
-    border-left: 0px solid #33ADFF;
-    display: block;}
-}
+ #navbar {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        width: 160px;
+      }
+      #navbar li {
+        border-bottom: 1px solid #FFEFD5;
+      }
+      #navbar a {
+        background-color: #FFDAB9;
+        color: #000000;
+        padding: 10px;
+        text-decoration: none;
+        font-weight: bold;
+        border-left: 0px solid #33ADFF;
+        display: block;}
